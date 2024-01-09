@@ -166,43 +166,43 @@ section p{
 }
 
 .Tt1:hover{
-    width: 500px;
-    height: 500px;
+    width: 450px;
+    height: 450px;
 }
 .Tt1 {
     transition: width 0.3s, height 0.3s; /* Add smooth transition for width and height */
 }
 .Tt2:hover{
-    width: 500px;
-    height: 500px;
+    width: 450px;
+    height: 450px;
 }
 .Tt2 {
     transition: width 0.3s, height 0.3s; /* Add smooth transition for width and height */
 }
 .Tt3:hover{
-    width: 500px;
-    height: 500px;
+    width: 450px;
+    height: 450px;
 }
 .Tt3 {
     transition: width 0.3s, height 0.3s; /* Add smooth transition for width and height */
 }
 .Tt4:hover{
-    width: 500px;
-    height: 500px;
+    width: 450px;
+    height: 450px;
 }
 .Tt4 {
     transition: width 0.3s, height 0.3s; /* Add smooth transition for width and height */
 }
 .Tt5:hover{
-    width: 500px;
-    height: 500px;
+    width: 450px;
+    height: 450px;
 }
 .Tt5 {
     transition: width 0.3s, height 0.3s; /* Add smooth transition for width and height */
 }
 .Tt:hover{
-    width: 500px;
-    height: 500px;
+    width: 450px;
+    height: 450px;
 }
 .Tt {
     transition: width 0.3s, height 0.3s; /* Add smooth transition for width and height */

@@ -1,0 +1,114 @@
+* {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  box-sizing:border-box ;
+  text-decoration: none;
+ font-family: 'Courier New', Courier, monospace;
+}
+section{
+  width: 70%;
+  height: 100%; 
+  background-color: rgba(0, 0, 0, 0.5);
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  
+}
+.header h1 {
+  margin: 30px;
+  color: rgb(0, 0, 0);
+}
+
+h1 {
+  color: azure;
+}
+p{
+  margin: 20px;
+  color: rgb(255, 255, 255);
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    height: 800px;
+    width : 1000px;
+   
+
+  }
+
+.ffob{
+    background-image: url(ffobBr.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    border-radius: 10px;
+    height: 350px;
+    width : 350px;
+    margin: 20px;
+}
+.scientificAboutBear{
+  background-image: url(R.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-radius: 10px;
+  height: 350px;
+  width : 350px;
+  margin: 20px;
+
+}
+.hob{
+  background-image: url(D.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-radius: 10px;
+  height: 350px;
+  width : 350px;
+  margin: 20px;
+
+}
+.infomationOfGrizzly{
+  background-image: url(G.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-radius: 10px;
+  height: 350px;
+  width : 350px;
+  margin: 20px;
+}
+.infomationOfPanda{
+  background-image: url(P.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-radius: 10px;
+  height: 350px;
+  width : 350px;
+  margin: 20px;
+}
+.informationOfRedPanda{
+  background-image: url(Rp.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-radius: 10px;
+  height: 350px;
+  width : 350px;
+  margin: 20px;
+}
+a{
+  text-decoration: none;
+}
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  background-color: #BCE7FD;
+  height: 80px;
+  position: sticky;
+  top:0;
+  
+}
+

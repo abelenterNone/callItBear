@@ -60,7 +60,8 @@ body{
   }
   
   .nav-list a:hover{
-    background-color: blueviolet;
+    background-color: rgb(255, 255, 255);
+    color: black;
   }
   .nav-list a.active{
     opacity: 1s;
